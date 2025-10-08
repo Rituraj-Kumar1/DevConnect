@@ -1,10 +1,10 @@
-﻿# 📍 DevConnect - Connect with Developers Seamlessly
+# 📍 DevConnect - Connect with Developers Seamlessly
 
 Welcome to **DevConnect**, a dynamic matchmaking platform exclusively designed for developers and tech enthusiasts to discover, connect, and collaborate based on shared skills and interests. Think Tinder for developers — but smarter! 🚀
 
 🌐 Live at: [http://13.61.7.169/](http://13.61.7.169/)  
-🔗 Frontend Repo: [DevConnectFrontened](https://github.com/GCell-droid/ConnectProgammersfrontenet)  
-🔗 Backend Repo: [DevConnectBackened](https://github.com/GCell-droid/CodeConnect)
+🔗 Frontend Repo: [DevConnect-Frontend](https://github.com/Rituraj-Kumar1/DevConnect-Frontend)  
+🔗 Backend Repo: [DevConnect](https://github.com/Rituraj-Kumar1/DevConnect)
 
 ---
 
@@ -22,12 +22,12 @@ Welcome to **DevConnect**, a dynamic matchmaking platform exclusively designed f
 - 🔁 **Logout Feature** – End your session securely
 - 🌍 **Deployment on AWS** – Live and scalable infrastructure
 
-
 ---
 
 ## 🧰 Tech Stack
 
 ### Frontend 🖼️
+
 - **Vite + React.js** ⚛️
 - **Tailwind CSS** 🎨
 - **DaisyUI** 🌼
@@ -36,6 +36,7 @@ Welcome to **DevConnect**, a dynamic matchmaking platform exclusively designed f
 - **Axios** for API communication
 
 ### Backend ⚙️
+
 - **Node.js + Express.js**
 - **MongoDB + Mongoose**
 - **Socket.io** for real-time communication
@@ -62,6 +63,7 @@ Welcome to **DevConnect**, a dynamic matchmaking platform exclusively designed f
 ```
 
 ### Folder Structure Suggestions
+
 - `components/` – Reusable UI components (NavBar, Footer, Card, etc.)
 - `constants/` – API base URL, routes, etc.
 - `redux/` – Store configuration and slices
@@ -101,14 +103,14 @@ Welcome to **DevConnect**, a dynamic matchmaking platform exclusively designed f
 
 ```bash
 # Clone both repositories
-git clone https://github.com/GCell-droid/ConnectProgammersfrontenet
-git clone https://github.com/GCell-droid/CodeConnect
+git clone https://github.com/Rituraj-Kumar1/DevConnect-Frontend
+git clone https://github.com/Rituraj-Kumar1/DevConnect
 ```
 
 #### 📦 Frontend
 
 ```bash
-cd ConnectProgammersfrontenet
+cd DevConnect-Frontend
 npm install
 npm run dev
 ```
@@ -116,7 +118,7 @@ npm run dev
 #### ⚙️ Backend
 
 ```bash
-cd CodeConnect
+cd DevConnect
 npm install
 npm run start  # Or use PM2 for production
 ```
@@ -171,16 +173,13 @@ server {
 - 🔍 **Advanced Profile Search**
 - 🔔 **Push Notifications**
 
-
 ---
 
 ## 🤝 Contributors
 
-- **Rituraj kumar**  ([Rituraj-Kumar1](https://github.com/Rituraj-Kumar1))
+- **Rituraj kumar** ([Rituraj-Kumar1](https://github.com/Rituraj-Kumar1))
 
 Open to contributions! Fork the repo, make changes, and submit a pull request. Let’s build the next big dev community together!
-
-
 
 ## 🔗 Connect With Me
 
@@ -190,4 +189,3 @@ Open to contributions! Fork the repo, make changes, and submit a pull request. L
 ---
 
 Made with ❤️ by Rituraj kumar
-
